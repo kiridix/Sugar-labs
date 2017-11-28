@@ -1,2 +1,2 @@
 # Sugar-labs
-Repository for GCI
+Hello Sugar Labs, Im Matias, a student from uruguay.
